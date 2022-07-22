@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: This section provides details on the writing assignments for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ceced5dd-a827-0c02-5d7f-c96ba1cd63dc
 ---
 
 As a [HASS CI Subject](http://web.mit.edu/commreq/), there will be a heavy emphasis upon writing and oral communication. There will be three papers assigned for a total of 20-24 pages of writing over the course of the semester. The [first paper](#Paper1) (4-5 pp.) will be due in class on the day of session #6. The [second paper](#Paper2) (6-7 pp.) will be due in class on the day of session #15. The second paper will be revised and resubmitted on the day of session #20, so that students will have an opportunity to work on specific writing skills before preparing the final paper. The [final paper](#FinalPaper) (10-12 pp.) will be due in class on the day of session #24. Students will also take turns making prepared oral presentations for the recitation sections. Presentations for recitation section will involve a summary of assigned readings and presentation of study questions pertinent to that week's material. The student will then lead the ensuing discussion for the remainder of that week's recitation section, based on his or her opening presentation. In addition to these written and oral communication assignments, there will be an in-class midterm on the day of session #12. **No late papers will be accepted.**
 
-You may also download a [PDF file]({{< baseurl >}}/resources/assignments) containing all of the assignments listed below.
+You may also download a {{% resource_link 1c024504-fe63-d829-7822-56ce807bab1c "PDF file" %}} containing all of the assignments listed below.
 
 {{< anchor "Paper1" >}}{{< /anchor >}}Paper Assignment #1
 ---------------------------------------------------------

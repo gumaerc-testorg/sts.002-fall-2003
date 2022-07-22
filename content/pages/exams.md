@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides review questions for the midterm exam.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 7f429711-5f35-219f-17be-16e6ace1b715
 ---
