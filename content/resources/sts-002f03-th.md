@@ -12,10 +12,10 @@ image_metadata:
   image-alt: Collage of Kepler, Copernicus, Newton, Galileo, Descartes, and Ptolemy.
     (Clockwise from top left.)
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Galileo and Descartes
 uid: b716a3ad-113d-fbce-e480-b47b528e1dfc
 ---
 Galileo and Descartes. (Images courtesy of the Library of Congress and NASA.)
-

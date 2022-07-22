@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Kepler, Copernicus, Newton, Galileo, Descartes, and Ptolemy
 uid: f5eb720b-bd62-acfc-ff67-badd403f9f19
 ---
 Clockwise from top left is a collage of Kepler, Copernicus, Newton, Galileo, Descartes, and Ptolemy. (Images courtesy of the Library of Congress and NASA.)
-
