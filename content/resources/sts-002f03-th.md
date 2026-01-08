@@ -7,9 +7,8 @@ file_size: 7627
 file_type: image/jpeg
 image_metadata:
   caption: Clockwise from top left is a collage of Kepler, Copernicus, Newton, Galileo,
-    Descartes, and Ptolemy. (Images courtesy of the {{% resource_link "cf413df5-4fa1-45b4-a577-f2853562b32a"
-    "Library of Congress" %}} and {{% resource_link "b24ffd72-5818-450a-a01a-7ed7358484a7"
-    "NASA" %}}.)
+    Descartes, and Ptolemy. (Images courtesy of the [Library of Congress](http://www.loc.gov/rr/print/)
+    and [NASA](http://imagine.gsfc.nasa.gov/).)
   credit: ''
   image-alt: Collage of Kepler, Copernicus, Newton, Galileo, Descartes, and Ptolemy.
     (Clockwise from top left.)
